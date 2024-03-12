@@ -700,7 +700,7 @@
         "code": "10098",
         "name": "Rod of Carnamagos",
         "subname": "Scepter of the Mad Seer",
-        "text": "Limit 1 per deck.\n[fast] Choose a non-[[Elite]] enemy at any location and exhaust Rod of Carnamagos: Reveal 5 random chaos tokens from the chaos bag. For each [curse] token revealed, you may search your bonded cards for a [[Rot]] event and attach it to that enemy.",
+        "text": "[fast] Choose a non-[[Elite]] enemy at any location and exhaust Rod of Carnamagos: Reveal 5 random chaos tokens from the chaos bag. For each [curse] token revealed, you may search your bonded cards for a [[Rot]] event and attach it to that enemy.",
         "traits": "물품. 유물. 비술. 저주받은.",
         "slot": "손"
     },
